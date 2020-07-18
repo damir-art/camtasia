@@ -1,2 +1,2 @@
-# camtasia
+# Camtasia
 Руководство по Camtasia Studio
